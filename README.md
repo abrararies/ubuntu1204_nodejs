@@ -1,5 +1,14 @@
-ubuntu1204_nodejs
+ubuntu1204_nodejs WITH RUBY
 =================
+Shippable CI image for Ruby on Ubuntu 12.04. Available versions are:
+
+1.8.7
+1.9.2
+1.9.3
+2.0.0
+2.1.1
+jruby
+ruby-head
 
 Shippable CI image for Node.js on Ubuntu 12.04. Available Node.js versions:
 
